@@ -1,5 +1,5 @@
 # Project Goingdutch
-## Web Prototype of Banking Transaction
+## Web Prototype of Expense Tracker
 - Track the transaction between two accounts,Loan
 > Account1
   - username: **vb**
